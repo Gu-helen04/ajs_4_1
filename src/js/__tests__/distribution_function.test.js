@@ -1,4 +1,4 @@
-import userLife from '../task1';
+import userLife from '../distribution_function';
 
 test('userLife check_1', () => {
   const someUser1 = userLife({ name: 'Маг', health: 30 });
