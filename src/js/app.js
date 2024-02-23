@@ -1,4 +1,4 @@
-//import userLife from './task1';
+
 
 //const user = [
   //{ name: 'алхимик', health: 40 },
